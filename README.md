@@ -1,5 +1,8 @@
 #DotZilla
 
+**https://github.com/DotZilla/https-gist.github.com-gradam26-0xef5Dfd8fdC88583a3B22D56fc8731a63A2B04ef3
+**
+
 https://github.com/BlockAudit-Report/DotZilla
 
 https://t.me/BlockAudit/71
